@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshjd&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshjd" /> </p>
 
-- 🔭 I’m currently working on **AI Lip Reader**
+- 🔭 I’m currently pursuing **M.Sc Data Science**
 
 - 🌱 I’m currently learning **Doing projects using Machine Learning**
 
