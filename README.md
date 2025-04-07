@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing **M.Sc Data Science**
 
-- 🌱 I’m currently learning **Doing projects using Machine Learning**
+- 🌱 I’m currently **Doing projects using Machine Learning**
 
 - 📫 How to reach me **utkarshjadhav438@gmail.com**
 
